@@ -1,4 +1,4 @@
-# Json2Columns-SecReportsConverter
+# Json2Columns-SecurityReportsConverter
 
 ## Description
 
